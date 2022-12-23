@@ -1,0 +1,14 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #213053;
+    margin: 0;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+   }
+   
+   form input, .checkbox-container {
+    margin-bottom: 15px;
+   }
